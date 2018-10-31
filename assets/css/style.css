@@ -1,0 +1,86 @@
+.container{
+    height:200px;
+    width: 2000px;
+    position:relative;
+}
+.image{
+    position:absolute;
+    width:150px;
+    height:150px ;
+}
+.judul{
+    z-index: 100;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 0px;
+}
+.kategori{
+    z-index: 100;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 20px;
+}
+.status{
+    z-index: 100;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 40px;
+}
+.harga{
+    z-index: 101;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 40px;
+}
+.deskripsi{
+    z-index: 101;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 60px;
+}
+.editiklan{
+    z-index: 101;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 160px;
+    top: 110px;
+}
+.deleteiklan{
+    z-index: 101;
+    position: absolute;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 220px;
+    top: 110px;
+}
+
+
+
+.user{
+   z-index: 101;
+    position: relative;
+    color: blue;
+    font-size: 15px;
+    font-weight: bold;
+    left: 0px;
+    
+}
+
